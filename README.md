@@ -33,3 +33,24 @@
 ## 🖼️ Screenshots *(optional)*
 
 You can showcase gameplay here:
+
+
+---
+
+## 🌟 Planned Features
+
+- Multiplayer support
+- Difficulty levels and progression
+- Mission objectives and choices
+- Smarter enemy AI behavior
+
+---
+
+## 🧪 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MihailJordanov/The-Fall-Of-The-Mafia.git
+Open the project in Unity Hub
+
+Launch the main scene (Main or Level1)
