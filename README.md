@@ -54,3 +54,100 @@ You can showcase gameplay here:
 Open the project in Unity Hub
 
 Launch the main scene (Main or Level1)
+
+
+## 📸 Gallery
+
+<div align="center">
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 204521.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 204644.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 204706.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+    <img 
+    src="docs/Images/Screenshot 2025-06-19 204730.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 204816.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 204840.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 204930.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 204956.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 205101.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 205134.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 205144.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 205205.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 205240.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 205341.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+   <img 
+    src="docs/Images/Screenshot 2025-06-19 205350.png" 
+    alt="Main gameplay" 
+    width="800" 
+    style="display:block; margin: 0 auto 20px;" 
+   />
+</div>
+
