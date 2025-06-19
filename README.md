@@ -28,11 +28,6 @@
 
 > The game is under active development – more levels, features, and improvements are coming soon!
 
----
-
-## 🖼️ Screenshots *(optional)*
-
-You can showcase gameplay here:
 
 
 ---
